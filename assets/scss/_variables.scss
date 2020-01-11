@@ -1,6 +1,6 @@
 // Typography
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$base-font-family: 'Overpass Mono', monospace;
+@font-face { font-family: 'Cafe24Simplehae'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Simplehae.woff') format('woff'); font-weight: normal; font-style: normal; };
+$base-font-family: 'Cafe24Simplehae';
 $heading-font-family: $base-font-family;
 
 // Font Sizes
