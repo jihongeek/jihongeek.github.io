@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "jihong.blog()"
-title_right   : "🌌" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+title_left    : "김지홍"
+title_right   : "블로그🌌" # default: ""
+description   : "편히 읽다 가세요"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://jihongeek.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
