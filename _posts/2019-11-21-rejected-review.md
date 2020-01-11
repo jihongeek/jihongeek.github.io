@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 학생부 종합전형 1단계 불합격 후기
-subtitle: 강하고 담대하라. 
-tags: [고3,입시,생각,사실적,삶]
+title: "학생부 종합전형 1단계 불합격 후기"
+comments: true
+description: "강하고 담대하라." 
+keyword: "life" 
+
 ---
 
 맞다. 제목 그대로다.
