@@ -10,7 +10,7 @@ cover         : "" # image uri like logo/cover image for site seo
 google_analytics  : UA-158669796-1
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+disqus_shortname  : "jihongeek"
 postshare_enabled : false
 
 # Build settings
